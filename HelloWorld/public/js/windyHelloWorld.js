@@ -1,10 +1,11 @@
 const options = {
     // Required: API key
     key: 'BbkS6dQWhTHsFLRY1p7BetesvxvPk3MT', 
-    // Put additional console output
+
+    // põe informações descritivas no consolo do navegador
     verbose: true,
 
-    // Optional: Initial state of the map
+    // Optional: coloca coordenadas iniciais no navegador
     lat: -20,
     lon: -50,
     zoom: 5,
