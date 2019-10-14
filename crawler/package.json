@@ -1,0 +1,15 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "Um craweler para capturar dados do site www.windy.com",
+  "main": "index.js",
+  "author": "wellington de sousa reis",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "global": "^4.4.0",
+    "nodemon": "^1.19.3",
+    "request": "^2.88.0"
+  }
+}
